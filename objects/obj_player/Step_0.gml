@@ -5,6 +5,16 @@ if(alive){
 scr_bind_controls();
 scr_movement_type(move_type);
 scr_projectile_shoot(player, projectile);
+scr_image_rotation();
+
+
+
+
+
+
+
+
+
 
 /*
 if(orentation_last == "up" && no_keys_pressed()){

@@ -26,7 +26,4 @@ if (alarm[0] <= 0 ){
 	}
 	
 	}
-if(alarm[1] <= 0){
-	if(move_left &&! shoot_right)image_xscale = 1;
-	if(move_right &&! shoot_left)image_xscale = -1;
-}
+
