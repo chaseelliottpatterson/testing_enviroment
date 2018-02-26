@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "1ee7255c-0b75-49df-b0fc-56280e88958c",
+            "Value": {
+                "id": "960f32d4-cfb7-4e8e-8257-21c33c063814",
+                "resourcePath": "scripts\\scr_no_shoot_pressed\\scr_no_shoot_pressed.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "2445723f-948a-405a-84db-287c3e37997c",
             "Value": {
                 "id": "68c68975-5a84-46b0-b612-138e9e48cde8",
@@ -255,6 +263,14 @@
             }
         },
         {
+            "Key": "78ac2f9a-cb1f-4f9e-b177-bc3393693b63",
+            "Value": {
+                "id": "41c74925-45e5-4f22-aafa-997b11f0993b",
+                "resourcePath": "scripts\\scr_no_move_pressed\\scr_no_move_pressed.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "7a7bf33f-7cef-4ed0-8e6e-07a0c3a6d9a4",
             "Value": {
                 "id": "adc75e46-d86f-4aca-9399-b76a9ce73c98",
@@ -306,7 +322,7 @@
             "Key": "8cf14b24-fe65-41f9-8271-da0d59bd5029",
             "Value": {
                 "id": "46ae2911-8c3e-4670-ad85-aa970a776952",
-                "resourcePath": "scripts\\no_keys_pressed\\no_keys_pressed.yy",
+                "resourcePath": "scripts\\scr_no_keys_pressed\\scr_no_keys_pressed.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -471,6 +487,14 @@
             }
         },
         {
+            "Key": "efb9fcb4-efd1-4697-b886-c32bb621efc4",
+            "Value": {
+                "id": "f371d4e6-1e59-4f94-8d9c-03eaeeea88a7",
+                "resourcePath": "sprites\\spr_player_shooting_left\\spr_player_shooting_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f2424e0f-8148-4eef-8216-578249be1c81",
             "Value": {
                 "id": "f23268cc-e96c-40b7-aff4-0cca794d6778",
@@ -512,6 +536,8 @@
         "ecd0edeb-6204-4a78-815d-8dab7410b38c",
         "7a7bf33f-7cef-4ed0-8e6e-07a0c3a6d9a4",
         "8cf14b24-fe65-41f9-8271-da0d59bd5029",
+        "78ac2f9a-cb1f-4f9e-b177-bc3393693b63",
+        "1ee7255c-0b75-49df-b0fc-56280e88958c",
         "a4f297f3-501a-42d0-b740-729bf9f0ae28",
         "eaea899a-c567-46c1-afaf-1a5842733495",
         "45403868-1ca3-4430-8326-e96cd3472d50"
